@@ -23,10 +23,14 @@
 
 ## OUTPUT::::::: 
 
-1) Before Converting : ![Screenshot](before.png)
+1) Before Converting : 
+      
+      ![Screenshot](before.png)
                  
                  
                  
                  
-2) After Converting : ![Screenshot](after.png)                 
+2) After Converting : 
+
+     ![Screenshot](after.png)                 
                  
